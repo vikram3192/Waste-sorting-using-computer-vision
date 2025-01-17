@@ -3,22 +3,22 @@
 
 
 
-Overview
+Overview:
 
 This project focuses on utilizing computer vision techniques to create an automated waste sorting system. By analyzing images of waste materials, the system classifies them into categories such as plastic, paper, metal, and organic waste. This helps in efficient waste management and contributes to a sustainable environment.
 ________________________________________________________________________________________________________________________
 
-Features
+Features:
 
-Real-time Waste Detection: Quickly classifies waste materials using a camera.
+ ✓ Real-time Waste Detection: Quickly classifies waste materials using a camera.
 
-Multiple Categories: Supports sorting into multiple waste categories.
+ ✓ Multiple Categories: Supports sorting into multiple waste categories.
 
-Machine Learning Integration: Uses trained models for accurate classification.
+ ✓ Machine Learning Integration: Uses trained models for accurate classification.
 
-User-Friendly Interface: Simple interface for deployment in various environments.
+ ✓ User-Friendly Interface: Simple interface for deployment in various environments.
 
-Scalable: Can be adapted for industrial or household use.
+ ✓ Scalable: Can be adapted for industrial or household use.
 
 -----------------
 Technologies Used
