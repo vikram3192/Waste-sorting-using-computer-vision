@@ -1,12 +1,12 @@
 # Waste-sorting-using-computer-vision
 
 
-Waste Sorting Using Computer Vision
+
 
 Overview
 
 This project focuses on utilizing computer vision techniques to create an automated waste sorting system. By analyzing images of waste materials, the system classifies them into categories such as plastic, paper, metal, and organic waste. This helps in efficient waste management and contributes to a sustainable environment.
-
+________________________________________________________________________________________________________________________
 
 Features
 
@@ -20,7 +20,7 @@ User-Friendly Interface: Simple interface for deployment in various environments
 
 Scalable: Can be adapted for industrial or household use.
 
-
+-----------------
 Technologies Used
 
 Programming Language: Python
@@ -33,7 +33,7 @@ Dataset: Custom waste images or publicly available datasets like TrashNet.
 
 Deployment Tools: Flask, Streamlit, or other web-based solutions.
 
-
+-----------------------
 Dataset
 
 The model is trained on a dataset containing labeled images of different types of waste. The dataset includes:
@@ -46,24 +46,25 @@ Metal: Cans, tins, etc.
 
 Organic Waste: Food scraps, plant material, etc.
 
+-----------------------------
 
 Installation
 
 1. Clone the repository:
 
-git clone https://github.com/username/waste-sorting
+       git clone https://github.com/username/waste-sorting
 
 
 2. Install dependencies:
 
-pip install -r requirements.txt
+       pip install -r requirements.txt
 
 
 3. Run the application:
 
-python app.py
+       python app.py
 
-
+-------------------------------------------
 
 Usage
 
@@ -75,6 +76,7 @@ Usage
 
 3. The output is displayed on the interface or stored in the database for further processing.
 
+---------------------------------------
 
 
 Model Training
@@ -88,12 +90,12 @@ Model Training
 3. Save the trained model for deployment.
 
 
-
+-------------------------------------------
 Results
 
 Accuracy: 76% on the test dataset.
 
-
+----------------------------------------
 
 
 Future Improvements
@@ -104,7 +106,7 @@ Adding support for more waste categories.
 
 Integrating robotics for automatic waste handling.
 
-
+-------------------------------------------
 
 
 License
